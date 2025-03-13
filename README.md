@@ -101,4 +101,7 @@ Automating report generation is a crucial step toward **efficient data analysis 
 ###*OUTPUT:*
 
 [Enhanced_Sales_Report.pdf](https://github.com/user-attachments/files/19236833/Enhanced_Sales_Report.pdf)
+
+
+
 ![Image](https://github.com/user-attachments/assets/b9bac460-e90b-4d20-939c-f58809d6a26d)
