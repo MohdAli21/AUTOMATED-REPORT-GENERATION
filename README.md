@@ -98,7 +98,7 @@ This project has numerous applications across various industries:
 Automating report generation is a crucial step toward **efficient data analysis and presentation**. This project provides hands-on experience in **data handling, visualization, and structured documentation**, which are essential skills in today’s data-driven world. By completing this task, one gains practical knowledge in **working with APIs, structuring data, and representing insights visually**, making it a valuable skill for professionals in business, finance, data science, and beyond.
 
 
-###*OUTPUT:*
+### **OUTPUT:**
 
 [Enhanced_Sales_Report.pdf](https://github.com/user-attachments/files/19236833/Enhanced_Sales_Report.pdf)
 
